@@ -1,8 +1,8 @@
 <h1 align="center">🌌 ItzAariz</h1>
-<h3 align="center">Web Developer • Designer • Cosmic Thinker</h3>
+<h3 align="center">The Cosmic Talent.</h3>
 
 <p align="center">
-  The Cosmic Talent.<br>
+  Web Developer • Designer • Cosmic Thinker<br>
   Mixing code + design with a cosmic aesthetic 🚀
 </p>
 
