@@ -21,7 +21,7 @@
   <a href="https://instagram.com/sp4ce.ixc">
     <img src="https://img.shields.io/badge/INSTAGRAM-111111?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-  <a href="https://discord.gg/hgs6QbYpTv">
+  <a href="https://discord.gg/8WQ9uDxXUJ">
     <img src="https://img.shields.io/badge/DISCORD-0b0b0b?style=for-the-badge&logo=discord&logoColor=white">
   </a>
 </p>
@@ -58,7 +58,7 @@ Because light mode is temporary — **space is eternal.**
 ## 📡 Connect With Me
 - Portfolio → https://itzaariz.github.io/portfolio/  
 - Instagram → https://instagram.com/sp4ce.ixc  
-- Discord → https://discord.gg/hgs6QbYpTv  
+- Discord → https://discord.gg/8WQ9uDxXUJ  
 
 ---
 
