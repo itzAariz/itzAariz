@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  Web Developer • Designer • Cosmic Thinker<br>
+  Web/Software Developer • Designer • Cosmic Thinker<br>
   Mixing code + design with a cosmic aesthetic 🚀
 </p>
 
@@ -29,13 +29,14 @@
 ---
 
 ## 🧠 Who I Am
-I'm a **web developer & designer** who loves clean UI, smooth UX, and cosmic visuals.  
+I'm a **web/software developer & designer** who loves clean UI, smooth UX, and cosmic visuals.  
 I don’t just code — I design experiences.
 
 ---
 
 ## 🛠️ What I Do
-- 🌐 Frontend Web Development  
+- 🌐 Frontend/Backend Web Development
+- 🎯 Software Development
 - 🎨 UI / UX Design  
 - ⚡ Creative Coding  
 - 🚀 Brand & Portfolio Websites  
