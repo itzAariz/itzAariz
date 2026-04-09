@@ -6,7 +6,7 @@
 <h3 align="center">The Cosmic Talent.</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Web+Developer;Designer;Cosmic+Thinker;Building+Digital+Universes" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Software/Web+Developer;Designer;Cosmic+Thinker;Building+Digital+Universes" />
 </p>
 
 <p align="center">
