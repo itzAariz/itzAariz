@@ -44,7 +44,7 @@ I don’t just code — I design experiences.
 
 ## ⚙️ Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma,git,github,flutter" />
 </p>
 
 ---
