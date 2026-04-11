@@ -30,7 +30,7 @@
 
 ## 🧠 Who I Am
 I'm a **web/software developer & designer** who loves clean UI, smooth UX, and cosmic visuals.  
-I don’t just code — I design experiences.
+I don’t just code. I design experiences.
 
 ---
 
@@ -52,13 +52,13 @@ I don’t just code — I design experiences.
 
 ## 🌌 Theme
 Dark. Minimal. Cosmic.  
-Because light mode is temporary — **space is eternal.**
+Because light mode is temporary. **space is eternal.**
 
 ---
 
 ## 📡 Connect With Me
 - Portfolio → https://itzaariz.github.io/portfolio/  
-- Instagram → https://instagram.com/sp4ce.ixc  
+- Instagram (deactivated) → https://instagram.com/sp4ce.ixc  
 - Discord → https://discord.gg/8WQ9uDxXUJ  
 
 ---
